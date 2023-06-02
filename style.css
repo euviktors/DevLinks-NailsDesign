@@ -11,8 +11,8 @@
 --bg-url: url(./assets/bgnails-desktop02.png); /*altera o background*/
 --stroke-color: rgba(255, 255, 255, 0.5);
 --surface-color: rgba(255, 255, 255, 0.05);
---surface-color-hover: rgba(0, 0, 0, 0.02);
---highlight-color: rgba(255, 255, 255, 0.2);
+--surface-color-hover: #ff166b;
+--highlight-color: #ff166b;
 --switch-bg-url: url(./assets/emoji-oculos-beijo.svg); /*icone do switch*/
 --iconfooter-color:  rgba(255, 255, 255, 0.61); /*altera a cor do icone do rodape*/
 }
