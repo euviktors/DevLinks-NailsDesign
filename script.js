@@ -1,3 +1,9 @@
+/*o codigo está infuncional, pois não habilitei a versão dark, 
+porem isso pode ser utilizando atualizando 
+umas partes simples dos codigos*/
+
+
+
 function toggleMode() {
     const html = document.documentElement
     html.classList.toggle("light")
